@@ -1,9 +1,6 @@
 """The game classes"""
 
 
-from xml.dom.pulldom import CHARACTERS
-
-
 class Room:
     """
     Class for room representation.
